@@ -35,7 +35,7 @@
     "underscore.string": "3.2.2"
   },
   "devDependencies": {
-    "appium": "1.5.1",
+    "appium": "^1.5.1",
     "babel-plugin-syntax-async-functions": "^6.5.0",
     "babel-plugin-transform-class-properties": "^6.6.0",
     "babel-plugin-transform-regenerator": "^6.6.5",
@@ -43,11 +43,9 @@
     "chai": "3.4.0",
     "chai-as-promised": "5.1.0",
     "colors": "1.1.2",
-    "ios-deploy": "1.8.2",
     "koa": "1.1.2",
     "koa-bodyparser": "2.0.1",
     "mocha": "2.4.5",
-    "node-inspector": "0.12.8",
     "wd": "0.4.0",
     "yiewd": "0.6.0"
   }
