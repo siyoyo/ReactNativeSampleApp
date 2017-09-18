@@ -15,6 +15,7 @@
     "translation:check": "ACTION=check node tasks/translation.js"
   },
   "dependencies": {
+    "ansi-styles": "^2.2.1",
     "events": "1.1.0",
     "flux": "2.1.1",
     "invariant": "2.2.0",
